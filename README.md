@@ -3,9 +3,11 @@
  ##
 
 # Conceitos Abordados
-Estatística
-Estatística é a ciência que estuda a coleta, análise, interpretação, apresentação e organização de dados. Ela oferece ferramentas para descrever e inferir características de uma população com base em uma amostra.
 
+:white_check_mark:Estatística:
+
+Estatística é a ciência que estuda a coleta, análise, interpretação, apresentação e organização de dados. Ela oferece ferramentas para descrever e inferir características de uma população com base em uma amostra.
+#
 :white_check_mark:Probabilidade:
 
 Probabilidade é uma área da matemática que analisa a chance de ocorrência de eventos. Ela é expressa como um valor entre 0 e 1, onde 0 significa que o evento nunca ocorre e 1 indica que o evento sempre ocorre.
