@@ -1,7 +1,8 @@
-#Estatística, Probabilidade e Amostragem
-Este projeto explora conceitos fundamentais de estatística e probabilidade e inclui exercícios para calcular várias medidas estatísticas e visualizar dados.
+# Estatística, Probabilidade e Amostragem
+ Este projeto explora conceitos fundamentais de estatística e probabilidade e inclui exercícios para calcular várias medidas estatísticas e visualizar dados.
+ ##
 
-#Conceitos Abordados
+# Conceitos Abordados
 Estatística
 Estatística é a ciência que estuda a coleta, análise, interpretação, apresentação e organização de dados. Ela oferece ferramentas para descrever e inferir características de uma população com base em uma amostra.
 
@@ -26,14 +27,18 @@ A variância amostral mede a dispersão dos valores em relação à média. Ela 
 
 **Visualização dos Dados**
 O projeto utiliza gráficos para ajudar a visualizar os dados e as estatísticas calculadas. Gráficos como histogramas e gráficos de dispersão são utilizados para representar a distribuição e a relação entre os dados.
+##
 
-#Bibliotecas Utilizadas#
+# Bibliotecas Utilizadas
 
-**statistics:** Usada para calcular medidas estatísticas como média, mediana, moda e variância amostral.
-**matplotlib.pyplot:** Utilizada para criar gráficos e visualizar os dados.
-**collections.Counter:** Usada para contagem e análise de frequências de valores.
+*statistics: Usada para calcular medidas estatísticas como média, mediana, moda e variância amostral.
+#
+*matplotlib.pyplot: Utilizada para criar gráficos e visualizar os dados.
+#
+*collections.Counter: Usada para contagem e análise de frequências de valores.
+##
 
-#Como Usar
+# Como Usar
 **Para utilizar o código e as análises:**
 
 Certifique-se de que as bibliotecas necessárias estão instaladas.
